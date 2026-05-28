@@ -1,3 +1,4 @@
+```dockerfile id="jlwmk7"
 # Use official Nginx image
 FROM nginx:latest
 
@@ -5,5 +6,4 @@ FROM nginx:latest
 COPY index.html /usr/share/nginx/html/
 
 # Expose port 80
-EXPOSE 80 
-``` 
+EXPOSE 80
