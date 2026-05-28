@@ -1,4 +1,3 @@
-```dockerfile id="jlwmk7"
 # Use official Nginx image
 FROM nginx:latest
 
